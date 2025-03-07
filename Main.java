@@ -1,6 +1,6 @@
 // Main.java
-// Name:Nidhi Pandit
-// PRN: 23070126081
+// Name:Ranveer Singh
+// PRN: 23070126102
 // Batch: B1
 
 import java.util.*;
